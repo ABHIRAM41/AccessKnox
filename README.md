@@ -25,7 +25,7 @@ This is a simple dashboard application built with React, Tailwind CSS, Redux, an
    npm start
 Open http://localhost:3000 in your browser to view the application.
 
-##Usage
--Click on "+ Add Widget" to add a new widget to a category.
--Click on the Remove button to remove a widget from a category.
--The widget details can be dynamically updated.
+## Usage
+- Click on "+ Add Widget" to add a new widget to a category.
+- Click on the Remove button to remove a widget from a category.
+- The widget details can be dynamically updated.
